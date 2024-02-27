@@ -1,3 +1,6 @@
 .venv
 .env
 thoughts.txt
+.netrc
+.idea
+*__pycache__*
